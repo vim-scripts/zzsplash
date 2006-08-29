@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1642
+
+By default, (g)vim displays a splash screen when starting with no editfile, or in response to the ":intro" command. This plugin makes the splash screen appear at startup in all cases, even when started with one or more "filename" arguments.
